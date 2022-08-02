@@ -65,3 +65,13 @@ gc.name("new Garbage Collection")
 
 - SPA(Single Page Application)는 하나의 뷰(View)파일에 컴포넌트를 배치하여 페이지를 구성하는 방법
 
+
+
+### Framework & Library
+
+- Framework(Vue,django,spring...)
+  - 소프트웨어의 구조를 설계해 둔것
+  - 개발자가 프레임 워크 구조에 맞게 프로그래밍 하여 작동
+- Library(React...)
+  - 소프트웨어의 기능을 구현
+  - 개발자가 라이브러리를 활용하여 개발
