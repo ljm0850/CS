@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:odm="http://product.corel.com/CGS/11/cddns/" xml:space="preserve" width="1027px" height="150px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd"
+     viewBox="0 0 1028 150">
+ <g id="Layer1">
+  <rect fill="#FFFFFF" stroke="#000000" x="14" y="13" width="125" height="125"/>
+  <text x="53" y="101" fill="#000000" font-weight="normal" font-size="80" font-family="Arial">1</text>
+  <rect fill="#FFFFFF" stroke="#000000" x="139" y="13" width="125" height="125"/>
+  <text x="179" y="101" fill="#000000" font-weight="normal" font-size="80" font-family="Arial">0</text>
+  <rect fill="#FFFFFF" stroke="#000000" x="264" y="13" width="125" height="125"/>
+  <text x="304" y="101" fill="#000000" font-weight="normal" font-size="80" font-family="Arial">0</text>
+  <rect fill="#FFFFFF" stroke="#000000" x="390" y="13" width="125" height="125"/>
+  <text x="429" y="101" fill="#000000" font-weight="normal" font-size="80" font-family="Arial">1</text>
+  <rect fill="#FFFFFF" stroke="#000000" x="515" y="13" width="125" height="125"/>
+  <text x="554" y="101" fill="#000000" font-weight="normal" font-size="80" font-family="Arial">0</text>
+  <rect fill="#FFFFFF" stroke="#000000" x="640" y="13" width="125" height="125"/>
+  <text x="680" y="101" fill="#000000" font-weight="normal" font-size="80" font-family="Arial">1</text>
+  <rect fill="#FFFFFF" stroke="#000000" x="765" y="13" width="125" height="125"/>
+  <text x="805" y="101" fill="#000000" font-weight="normal" font-size="80" font-family="Arial">0</text>
+  <rect fill="#00FFFF" stroke="#000000" x="891" y="13" width="125" height="125"/>
+  <text x="930" y="101" fill="#000000" font-weight="normal" font-size="80" font-family="Arial">1</text>
+ </g>
+</svg>
